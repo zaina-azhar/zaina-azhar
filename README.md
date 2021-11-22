@@ -1,7 +1,7 @@
 ## 👋 Hello there! 👋
 #### My name is Zaina Azhar! Nice to meet you :-)
 - 👨‍💻 My favourite programming language is **Python**
-- 📚 On the road to writing effecient software, clean code, and clear documentation!
+- 📚 On the road to writing efficient and clean code with clear documentation!
 - 🌲 Currently studying a Computer Science Specialist program at the **University of Toronto**!
 - 💻 I enjoy participating in hackathons and group programming projects :)
 - 💪 Currently looking for ✨ *Summer 2022 Software Engineering Internships* ✨
