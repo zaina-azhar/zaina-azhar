@@ -1,16 +1,13 @@
-### Hi there 👋
+## 👋 Hello there! 👋
+#### My name is Zaina Azhar! Nice to meet you :-)
+- 👨‍💻 My favourite programming language is **Python**
+- 📚 On the road to writing effecient software, clean code, and clear documentation!
+- 🌲 Currently studying a Computer Science Specialist program at the **University of Toronto**!
+- 💻 I enjoy participating in hackathons and group programming projects :)
+- 💪 Currently looking for ✨ *Summer 2022 Software Engineering Internships* ✨
 
-<!--
-**zaina-azhar/zaina-azhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tools
+![](https://img.shields.io/badge/​-Python-<COLOR>?style=flat&logo=python&logoColor=white) ![](https://img.shields.io/badge/​-Java-<COLOR>?style=flat&logo=java&logoColor=white)  ![](https://img.shields.io/badge/​-Github-fa0?style=flat&logo=github&logoColor=white) 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👥💬 Connect
+[![](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaina-a-257671174)
