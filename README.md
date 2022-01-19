@@ -2,8 +2,8 @@
 #### i'm the mayor, zaina azhar - feel free to take a peek around :-)
 - 🍄 **currently:** on the road to learning *C*, working on writing efficient and clean code
 - 🌲  i work mainly in *Python* and *Java*, but i'm excited to add *C* to the roster
-- 🏕️ im currently enrolled in the *Computer Science Specialist* program at the **University of Toronto**!
-- 🪐 **passions:** equity and radical community work, psychology, programming, and reading :]
+- 🌉 im currently enrolled in the *Computer Science Specialist* program at the **University of Toronto**!
+- 🍃 **passions:** equity and radical community work, psychology, programming, and reading :]
 - 🌆 **on the lookout:** for ✨ *Summer 2022 Software Engineering Internships* ✨
 
 ## ✧ tools ✧
