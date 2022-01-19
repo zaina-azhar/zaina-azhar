@@ -5,7 +5,7 @@
 - im currently enrolled in the *Computer Science Specialist* program at the **University of Toronto**!
 - **passions:** equity and radical community work, psychology, programming, and reading :]
 - **on the lookout:** for ✨ *Summer 2022 Software Engineering Internships* ✨
-![](https://i.pinimg.com/564x/97/21/72/972172fc179bb9ef30e550d696a569c5.jpg)
+![](https://i.pinimg.com/564x/97/21/72/972172fc179bb9ef30e550d696a569c5.jpg | width=50)
 ## ✧ tools ✧
 ![](https://img.shields.io/badge/​-Python-<COLOR>?style=flat&logo=python&logoColor=white) ![](https://img.shields.io/badge/​-Java-<COLOR>?style=flat&logo=java&logoColor=white)  ![](https://img.shields.io/badge/​-Github-fa0?style=flat&logo=github&logoColor=white)
 
