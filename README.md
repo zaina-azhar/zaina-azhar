@@ -12,5 +12,5 @@
 ## ✧ connect ✧
 [![](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaina-a-257671174)
 
-<img src="https://i.pinimg.com/originals/da/db/27/dadb278cc90e9e42ba8d88ff749a3680.gif" alt="you are now leaving: Zaina's Town" style="float: left; width: 25%; margin-right: 1%; margin-bottom: 0.5em;"><p style="clear: both;">
+<img src="https://i.pinimg.com/originals/da/db/27/dadb278cc90e9e42ba8d88ff749a3680.gif" alt="you are now leaving: Zaina's Town" style="float: left; width: 50%; margin-right: 1%; margin-bottom: 0.5em;"><p style="clear: both;">
 
