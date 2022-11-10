@@ -1,7 +1,7 @@
 ## welcome to my little town! \*:･ﾟ\*✧:･ﾟ✧
 #### i'm the mayor, zaina azhar - feel free to take a peek around :-)
-- 🍄 **currently:** on the road to learning *Figma* and *Full Stack Development*, developing a modified anglo-saxon runic keyboard and translator
-- 🌲  i work mainly in *Python*, *Java*, and *C* but i'm excited to add more to the roster
+- 🍄 **currently:** on the road to learning *Vue* and *Full Stack Agile Development*, developing a modified anglo-saxon runic keyboard and translator
+- 🌲  i work mainly in *Python*, *Java*, *Javascript*, and *C* but i'm excited to add more to the roster
 - 🌉 im currently enrolled in the *Computer Science and Critical Equity Majors* at the **University of Toronto**!
 - 🍃 **passions:** equity and radical community work, programming, reading (and learning ᚱᚢᚾᛖᛋ????) :]
 - 🌆 **on the lookout:** for ✨ *Summer 2023 Software Engineering or UX/UI Internships* ✨
